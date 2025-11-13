@@ -4,7 +4,7 @@
 
 **Authors:** Group 4  
 **Institution:** Kwame Nkrumah University of Science and Technology  
-**Course:** Mathematical Finance / Stochastic Processes  
+**Course:** Stochastic Processes  
 **Year:** 2nd Year Group Project
 
 ---
