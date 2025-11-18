@@ -191,12 +191,12 @@ Based on daily data from 1998-2024:
 ### Visual Results
 
 #### Figure 1: Original Time Series (1998-2024)
-<img src="output/figures/00_series_plot.png" width="700" alt="Original Series">
+<img src="00_series_plot.png" width="700" alt="Original Series">
 
 **Observation:** Data shows mean-reverting behavior with periods of high/low volatility, making CIR model appropriate.
 
 #### Figure 2: Actual vs. Simulated (Single Path)
-<img src="output/figures/01_actual_vs_simulated.png" width="700" alt="Actual vs Simulated">
+<img src="01_actual_vs_simulated.png" width="700" alt="Actual vs Simulated">
 
 **Interpretation:**
 - **Red:** Actual data with real market shocks and regime changes
@@ -204,7 +204,7 @@ Based on daily data from 1998-2024:
 - **Divergence:** Expected - single path won't match exact history, but statistical properties should align
 
 #### Figure 3: Monte Carlo Simulation (10 Sample Paths)
-<img src="output/figures/02_mc_paths_first10.png" width="700" alt="Monte Carlo Paths">
+<img src="02_mc_paths_first10.png" width="700" alt="Monte Carlo Paths">
 
 **Key Insights:**
 - All paths exhibit mean reversion toward θ (not visible here but confirmed in envelope)
